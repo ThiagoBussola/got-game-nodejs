@@ -20,5 +20,3 @@ UsuariosDAO.prototype.inserirUsuario = function(usuario, res) {
 module.exports = function() {
     return UsuariosDAO;
 }
-
-// realizando teste com ssh
